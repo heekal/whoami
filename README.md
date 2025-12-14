@@ -1,10 +1,10 @@
 # whoami
 kkal's personal websites.
 
-About:
-This project will be deployed via ==Vercel==.
+About:</br>
+This project will be deployed via <mark>Vercel</mark>.
 
-Content:
+Content:</br>
 Related to me.
 
 To Do:
