@@ -2,7 +2,8 @@
 kkal's personal websites.
 
 About
-	```
+
+```
 {
   "firstName": "John",
   "lastName": "Smith",
