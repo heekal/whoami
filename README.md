@@ -1,12 +1,13 @@
 # whoami
 kkal's personal websites.
 
-About
+About:
+This project will be deployed via ===Vercel===.
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+Content:
+Related to me.
+
+To Do:
+[ ] Create Content
+[ ] Design UI
+[ ] Deploy
