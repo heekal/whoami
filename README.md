@@ -2,7 +2,7 @@
 kkal's personal websites.
 
 About:
-This project will be deployed via ===Vercel===.
+This project will be deployed via ==Vercel==.
 
 Content:
 Related to me.
